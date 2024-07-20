@@ -9,3 +9,4 @@ Job Description Input: Users can input the job description against which resumes
 Resume Matching: The tool compares each resume to the job description and returns the most relevant resumes.
 Summary Generation: Provides a summary of each relevant resume to facilitate quick review.
 Match Score: Assigns a score indicating how well each resume matches the job description.
+

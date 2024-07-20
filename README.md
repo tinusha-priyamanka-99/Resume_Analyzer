@@ -10,7 +10,7 @@ This project is a Generative AI tool designed to streamline the resume screening
 
 ## Code Explanation
 
-  ### Part 1: Backend Logic
+  ### Backend 
 - Dependencies and Imports:<br>
 
   from langchain_openai import OpenAI<br>
@@ -31,4 +31,7 @@ This project is a Generative AI tool designed to streamline the resume screening
 - pull_from_pinecone(...): Pulls documents from the Pinecone vector store.<br>
 - similar_docs(...): Searches for similar documents in Pinecone vector store.<br>
 - get_summary(current_doc): Generates a summary of the document using OpenAI.<br>
+
+### Streamlit Frontend
+
 

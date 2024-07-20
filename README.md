@@ -1,3 +1,5 @@
+# Resume Screening Assistance
+
 ## Overview
 This project is a Generative AI tool designed to streamline the resume screening process for HR professionals. Leveraging the LangChain framework, OpenAI API, and Pinecone vector store, this application analyzes resumes, matches them to a provided job description, and provides a matching score along with a summary for each relevant resume. This allows HR teams to quickly identify the most suitable candidates.
 
